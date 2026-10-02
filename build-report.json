@@ -1,7 +1,7 @@
 {
   "project": "Шпиль · Арена на высоте",
   "projectId": "spire-arena-heights",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "engineSDK": 1,
   "base": "./",
   "scenes": [
@@ -19,11 +19,11 @@
   ],
   "assets": [],
   "files": [
-    "assets/index-CBucvwv5.js",
+    "assets/index-DMEPAJd_.js",
     "assets/index-DZotLEGE.js",
-    "assets/style-CJv95U9D.css",
+    "assets/style-Cq4aE-am.css",
     "index.html"
   ],
-  "builtAt": "2026-10-02T23:20:05.661Z",
+  "builtAt": "2026-10-02T23:42:54.315Z",
   "requirements": "WebGL2, ES2022, static HTTP server"
 }
